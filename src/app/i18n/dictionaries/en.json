@@ -1,0 +1,31 @@
+{
+    "Navigation": {
+        "categories": "Categories",
+        "programming": "Programming",
+        "design": "Design",
+        "data": "Data Science",
+        "search": "Search for courses...",
+        "profile": "Profile",
+        "menu": {
+            "profile": "My Profile",
+            "courses": "My Courses",
+            "settings": "Settings",
+            "teach": "Teach",
+            "cart": "My Cart",
+            "signature": "Signature",
+            "language": "Language",
+            "logout": "Logout"
+        },
+        "login": "Login"
+    },
+    "Home": {
+        "title": "Welcome to CursON",
+        "subtitle": "Start your learning journey today",
+        "featuredCourses": "Featured Courses",
+        "about": {
+            "title": "About Us",
+            "description": "Our course platform is focused on programming, offering a wide variety of courses for all levels. Learn from the best instructors and improve your programming skills in a practical and efficient way.",
+            "description2": "With our platform, you can organize your studies, track your progress, and access high-quality materials at any time. Join us and start learning today!"
+        }
+    }
+}

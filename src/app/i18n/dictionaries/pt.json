@@ -1,0 +1,31 @@
+{
+    "Navigation": {
+        "categories": "Categorias",
+        "programming": "Programação",
+        "design": "Design",
+        "data": "Ciência de Dados",
+        "search": "Buscar cursos...",
+        "profile": "Perfil",
+        "menu": {
+            "profile": "Meu Perfil",
+            "courses": "Meus Cursos",
+            "logout": "Sair",
+            "settings": "Configurações",
+            "teach": "Ensinar",
+            "cart": "Meu Carrinho",
+            "signature": "Assinatura",
+            "language": "Idioma"
+        },
+        "login": "Entrar"
+    },
+    "Home": {
+        "title": "Bem-vindo ao CursON",
+        "subtitle": "Comece sua jornada de aprendizado hoje",
+        "featuredCourses": "Cursos em Destaque",
+        "about": {
+            "title": "Sobre a Plataforma",
+            "description": "Nossa plataforma de cursos é focada em programação, oferecendo uma grande variedade de cursos para todos os níveis. Aprenda com os melhores instrutores e melhore suas habilidades de programação de forma prática e eficiente.",
+            "description2": "Com nossa plataforma, você pode organizar seus estudos, acompanhar seu progresso e acessar materiais de alta qualidade a qualquer momento. Junte-se a nós e comece a aprender hoje!"
+        }
+    }
+}
